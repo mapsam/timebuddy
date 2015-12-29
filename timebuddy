@@ -1,0 +1,8 @@
+#!/usr/bin/env node
+
+var timebuddy = require('./');
+
+var userInput = process.argv[2];
+timebuddy(userInput, function(error, response) {
+    console.log(response);
+});

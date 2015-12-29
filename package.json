@@ -1,0 +1,14 @@
+{
+  "name": "timebuddy",
+  "version": "1.0.0",
+  "description": "tells the time like a computer friend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "timebuddy": "./timebuddy"
+  },
+  "author": "Sam Matthews <matthews.sam@gmail.com> (http://mapsam.com/)",
+  "license": "ISC"
+}
